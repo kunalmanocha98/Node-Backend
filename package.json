@@ -1,0 +1,18 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "this is project for my node learning curve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "kunal manocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
